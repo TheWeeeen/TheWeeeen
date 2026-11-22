@@ -47,7 +47,7 @@ Rust, тесты, портовая архитектура.
 
 ## Активность
 
-<img src="assets/snake.svg" alt="змейка по контрибуциям" width="480">
+<img src="assets/snake.svg" alt="змейка по контрибуциям" width="348">
 
 ---
 
