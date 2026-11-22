@@ -1,6 +1,6 @@
 # TheWeeeen
 
-<img src="assets/typing_en.svg" alt="terminal intro" width="860">
+<img src="assets/typing_en.gif" alt="terminal intro" width="860">
 
 Backend & automation engineer. C++ / Rust / Go / TypeScript. Networks, drivers, AI
 systems — self-hosted, no cloud.
@@ -47,7 +47,7 @@ Noctalia install and data migration.
 
 ## Contributions
 
-<img src="assets/snake.svg" alt="contribution snake" width="451">
+<img src="assets/snake.gif" alt="contribution snake" width="451">
 
 ---
 

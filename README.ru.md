@@ -1,6 +1,6 @@
 # TheWeeeen
 
-<img src="assets/typing_en.svg" alt="терминал" width="860">
+<img src="assets/typing_en.gif" alt="терминал" width="860">
 
 Бэкенд и автоматизация. C++ / Rust / Go / TypeScript. Сети, драйверы, AI-системы —
 на своих серверах, без облака.
@@ -47,7 +47,7 @@ Rust, тесты, портовая архитектура.
 
 ## Активность
 
-<img src="assets/snake.svg" alt="змейка по контрибуциям" width="451">
+<img src="assets/snake.gif" alt="змейка по контрибуциям" width="451">
 
 ---
 
