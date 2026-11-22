@@ -10,7 +10,7 @@ systems — self-hosted, no cloud.
 - **Low-level** — C++, Rust, Linux internals, drivers, network protocols
 - **High-level** — TypeScript, Java, Python, Go
 - **Infra** — Linux, systemd, nginx, WireGuard/VLESS, Docker
-- **AI** — vLLM, model serving, RAG, LLM routing, embeddings, pipelines
+- **AI** — vLLM, llama.cpp, model serving, RAG, LLM routing, embeddings, pipelines
 
 ## Contributions
 

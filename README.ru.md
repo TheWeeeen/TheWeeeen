@@ -10,7 +10,7 @@
 - **Низкий уровень** — C++, Rust, Linux internals, драйверы, сетевые протоколы
 - **Высокий уровень** — TypeScript, Java, Python, Go
 - **Инфраструктура** — Linux, systemd, nginx, WireGuard/VLESS, Docker
-- **AI** — vLLM, запуск моделей, RAG, роутинг LLM, эмбеддинги, пайплайны
+- **AI** — vLLM, llama.cpp, запуск моделей, RAG, роутинг LLM, эмбеддинги, пайплайны
 
 ## Активность
 
