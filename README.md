@@ -47,7 +47,7 @@ Noctalia install and data migration.
 
 ## Contributions
 
-<img src="assets/snake.svg" alt="contribution snake" width="348">
+<img src="assets/snake.svg" alt="contribution snake" width="570">
 
 ---
 
